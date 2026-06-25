@@ -13,7 +13,7 @@ To view the page locally, run a local web server (e.g. Python) in the root direc
 python3 -m http.server 8000
 ```
 
-Once running, navigate to: **[http://localhost:8000](http://localhost:8000)**
+Once running, navigate to: **[https://edit-karoin.vercel.app](https://edit-karoin.vercel.app)**
 
 ---
 
